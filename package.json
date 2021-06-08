@@ -1,0 +1,18 @@
+{
+  "name": "@julia_ya/json-to-form",
+  "version": "1.0.0",
+  "description": "This package will convert form in json schema to html.",
+  "type": "module",
+  "bin": {
+    "index": "bin/index.js"
+  },
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuliaYa/json-to-form.git"
+  },
+  "author": "JuliaYa",
+  "license": "ISC"
+}
